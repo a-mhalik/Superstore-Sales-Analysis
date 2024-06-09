@@ -44,6 +44,6 @@ Data-driven insights reveal a clear understanding of the superstore's performanc
 # FILES IN THIS REPOSITORY
 1.An Excel Workbook showcasing the Analysis made and Visualized data.
 
-2.A written report on the Analysis don ein the workbook.
+2.A written report on the Analysis done in the workbook.
 
 3.All the datasets used for the analysis.
